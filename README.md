@@ -1,8 +1,14 @@
-<iframe src="https://chromedino.com/mario/" frameborder="0" scrolling="no" width="100%" height="100%" loading="lazy"></iframe>
-<style type="text/css">iframe { position: absolute; width: 100%; height: 100%; z-index: 999; }</style>
-<iframe src="https://chromedino.com/" frameborder="0" scrolling="no" width="100%" height="100%" loading="lazy"></iframe>
-<style type="text/css">iframe { position: absolute; width: 100%; height: 100%; z-index: 999; }</style>
+# JAE BOJJA GAMER YT WELCOME TO MY WEBSITE :))
 
 
-<iframe src="https://chromedino.com/" frameborder="0" scrolling="no" width="100%" height="100%" loading="lazy"></iframe>
-<style type="text/css">iframe { position: absolute; width: 100%; height: 100%; z-index: 999; }</style>
+ YT SUBSCRIBE : https://www.youtube.com/channel/UC9gVvYGyzCV3FZsUaYwJiuQ
+ 
+ DISCORD : https://discord.com/invite/n5fXxrNVKa 
+
+INSTAGRAM : https://www.instagram.com/jae_bojja_gamer_yt/ 
+
+TWITCH : https://www.twitch.tv/jaebojja
+
+SPOTIFY OF MY SECOND MUSIC CHANNEL : https://open.spotify.com/user/31rrxep7nkfrbjwfwj2ygcllyyiu 
+
+💯i wil update this website soon guys! 😁 😀
